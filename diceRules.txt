@@ -1,0 +1,25 @@
+              REGLAS DEL JUEGO: Voltear el dado
+
+El primer jugador lanza un dado sobre la mesa y anota la puntuación de la 
+cara superior en un contador. El segundo jugador voltea el dado sobre una 
+de las aristas de la cara inferior, de manera que queda en la cara superior 
+una de las que estaban en un lateral y suma la puntuación de esta cara a la 
+anotada inicialmente en el contador. Los jugadores continúan volteando el 
+dado alternativamente y sumando la puntuación de la cara superior en 
+el marcador. Pierde el primero que eleva la suma a 50 o más puntos.
+
+Los giros se identificarán por los cuatro puntos cardinales: Norte, Sur, Este 
+u Oeste. Cada giro volteará el dado sobre uno de sus cuatro aristas inferiores:
+
+N (Norte) Gira el dado sobre la arista posterior, dejando el valor que 
+          aparece en el frente en la cara superior, 
+S (Sur)   Gira el dado sobre la arista anterior, dejando el valor oculto de
+          la parte posterior en la cara superior, 
+E (Este)  Gira el dado sobre la arista de la derecha, dejando el valor oculto 
+          de la parte izquierda en la cara superior 
+O (Oeste) Gira el dado sobre la arista de la izquierda, dejando el valor de 
+          la parte derecha en la cara superior. 
+
+Se puede jugar tantas veces como se desee y en cualquier momento se pueden 
+consultar estas instrucciones o abandonar el juego usando la opción de salir.
+XXX
